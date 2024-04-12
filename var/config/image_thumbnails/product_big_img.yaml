@@ -1,0 +1,28 @@
+pimcore:
+    assets:
+        image:
+            thumbnails:
+                definitions:
+                    product_big_img:
+                        items:
+                            -
+                                method: cover
+                                arguments:
+                                    width: 800
+                                    height: 800
+                                    positioning: center
+                                    forceResize: true
+                        medias: {  }
+                        name: product_big_img
+                        description: '800 * 800'
+                        group: ''
+                        format: SOURCE
+                        quality: 85
+                        highResolution: null
+                        preserveColor: false
+                        preserveMetaData: false
+                        rasterizeSVG: false
+                        downloadable: false
+                        modificationDate: 1712857004
+                        creationDate: 1712856397
+                        preserveAnimation: false

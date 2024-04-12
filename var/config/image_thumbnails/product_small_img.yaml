@@ -1,0 +1,28 @@
+pimcore:
+    assets:
+        image:
+            thumbnails:
+                definitions:
+                    product_small_img:
+                        items:
+                            -
+                                method: cover
+                                arguments:
+                                    width: 200
+                                    height: 200
+                                    positioning: center
+                                    forceResize: true
+                        medias: {  }
+                        name: product_small_img
+                        description: '200 * 200'
+                        group: ''
+                        format: SOURCE
+                        quality: 85
+                        highResolution: null
+                        preserveColor: false
+                        preserveMetaData: false
+                        rasterizeSVG: false
+                        downloadable: false
+                        modificationDate: 1712857008
+                        creationDate: 1712856388
+                        preserveAnimation: false

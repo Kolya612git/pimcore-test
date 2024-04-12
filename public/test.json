@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "amazon box",
+      "gtin": "123457789712",
+      "image": "https://liv-cdn.pages.dev/pim/1.jpg",
+      "date": "2024-03-15"
+    },
+    {
+      "name": "amazon box 2",
+      "gtin": "123556789013",
+      "image": "https://liv-cdn.pages.dev/pim/2.jpg",
+      "date": "2024-03-20"
+    },
+    {
+      "name": "boom box",
+      "gtin": "623456789014",
+      "image": "https://liv-cdn.pages.dev/pim/3.jpg",
+      "date": "2024-03-21"
+    },
+    {
+      "name": "amazon hello",
+      "gtin": "323456789015",
+      "image": "https://liv-cdn.pages.dev/pim/4.jpg",
+      "date": "2024-03-26"
+    },
+    {
+      "name": "chromecast remote",
+      "gtin": "123456723323",
+      "image": "https://liv-cdn.pages.dev/pim/5.jpg",
+      "date": "2024-03-22"
+    }
+  ]
+}
